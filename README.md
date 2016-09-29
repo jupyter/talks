@@ -3,7 +3,11 @@
 A collection of talks about Jupyter and IPython projects and their applications
 
 https://github.com/jupyter-resources/talks
-- 
+
+|Date|Venue|Talk|Links|
+|----|-----|----|-----|
+|2016-09-16|PyData Carolinas|[Five Cool Jupyter Things Lightning Talk](1609-pydata-carolinas-lightning-talk)|[nbviewer slideshow](http://nbviewer.jupyter.org/format/slides/github/jupyter-resources/talks/blob/master/1609-pydata-carolinas-lightning-talk/five_cool_jupyter_things.ipynb#/)|
+
 ## Contributing to this collection
 
 Share your talk with others in the community by following these suggested naming conventions:
