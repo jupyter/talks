@@ -7,7 +7,7 @@ https://github.com/jupyter-resources/talks
 |Date|Venue|Talk|Links|
 |----|-----|----|-----|
 |2016-09-16|PyData Carolinas|[Five Cool Jupyter Things Lightning Talk](1609-pydata-carolinas-lightning-talk)|[nbviewer slideshow](http://nbviewer.jupyter.org/format/slides/github/jupyter-resources/talks/blob/master/1609-pydata-carolinas-lightning-talk/five_cool_jupyter_things.ipynb#/)|
-|2016-12-13|PyLadies SF Jupyter Talk/Demo|[Learning Jupyter: A Hands-On Night with PyLadies at Bloomberg](1609-pydata-carolinas-lightning-talk)|[nbviewer slideshow](http://nbviewer.jupyter.org/format/slides/github/jupyter-resources/talks/blob/master/1609-pydata-carolinas-lightning-talk/five_cool_jupyter_things.ipynb#/)|
+|2016-12-13|PyLadies SF Jupyter Talk/Demo|[Learning Jupyter: A Hands-On Night with PyLadies at Bloomberg](1612-pyladies-at-bloomberg-talk-demo)|[nbviewer slideshow](http://nbviewer.jupyter.org/format/slides/https://github.com/jupyter-resources/talks/blob/master/1612-pyladies-at-bloomberg-talk-demo/Jupyter_PyLadies_at_Bloomberg_20161213.pdf)|
 
 ## Contributing to this collection
 
