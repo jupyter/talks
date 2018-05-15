@@ -7,7 +7,11 @@ https://github.com/jupyter-resources/talks
 |Date|Venue|Talk|Links|
 |----|-----|----|-----|
 |2016-09-16|PyData Carolinas|[Five Cool Jupyter Things Lightning Talk](1609-pydata-carolinas-lightning-talk)|[nbviewer slideshow](http://nbviewer.jupyter.org/format/slides/github/jupyter-resources/talks/blob/master/1609-pydata-carolinas-lightning-talk/five_cool_jupyter_things.ipynb#/)|
+|2016-09-XX|RENCI|[A Brief Introduction to Jupyter Notebook](1609-renci-brief-jupyter-intro)||
 |2016-12-13|PyLadies SF Jupyter Talk/Demo|[Learning Jupyter: A Hands-On Night with PyLadies at Bloomberg](1612-pyladies-at-bloomberg-talk-demo)|
+|2018-01-30|NCSU|[Open Tools for Human-in-the-Loop Computing](http://github.com/parente/ncsu2018/)||
+|2018-03-31|Jupyter Day Atlanta|[Give a Little Bit of Your Notebooks to Me](https://gist.github.com/parente/1839cdcfbd677d99157c8c5d1f5ec915)|[nbviewer slideshow](http://nbviewer.jupyter.org/format/slides/gist/parente/1839cdcfbd677d99157c8c5d1f5ec915#/)|
+|2018-05-15|Jupyter Popup DC|[Share a Little Bit of Your Notebooks with Me](1805-popup-dc-share-nbs)||
 
 ## Contributing to this collection
 

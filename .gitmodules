@@ -1,0 +1,6 @@
+[submodule "1801-ncsu-open-tools-hitl"]
+	path = 1801-ncsu-open-tools-hitl
+	url = https://github.com/parente/ncsu2018.git
+[submodule "1803-jday-atl-share-nbs"]
+	path = 1803-jday-atl-share-nbs
+	url = https://gist.github.com/1839cdcfbd677d99157c8c5d1f5ec915.git
