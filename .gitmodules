@@ -1,0 +1,3 @@
+[submodule "1801-ncsu-open-tools-hitl"]
+	path = 1801-ncsu-open-tools-hitl
+	url = https://github.com/parente/ncsu2018.git
